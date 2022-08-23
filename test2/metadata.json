@@ -1,6 +1,6 @@
 {
-    "title": "[Staking] -- Update staking reward to 9% APY",
-    "description": "Update staking reward from 10% to 9% APY",
-    "source_code_url": "https://github.com/aptos-labs/ait3-governance/test2/sources",
-    "discussion_url": "https://forum.aptoslabs.com/proposals/upgrade-potato-module-v3"
+   "title":"[Staking] -- Update staking reward to 9% APY",
+   "description":"Update staking reward from 10% to 9% APY",
+   "source_code_url":"https://github.com/aptos-labs/ait3-governance/test2/sources",
+   "discussion_url":"https://forum.aptoslabs.com/proposals/upgrade-potato-module-v3"
 }
