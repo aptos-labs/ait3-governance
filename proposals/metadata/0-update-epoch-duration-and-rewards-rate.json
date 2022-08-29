@@ -1,0 +1,6 @@
+{
+   "title":"Update epoch duration from 2 hours to 1 hour and update rewards rate so APY stays the same",
+   "description":"Epoch duration is halved to 1 hour. Rewards rate is also halved. This way APY would stay the same.",
+   "source_code_url":"https://github.com/aptos-labs/ait3-governance/proposals/sources/0-update-epoch-duration-and-rewards-rate.move",
+   "discussion_url":"https://forum.aptoslabs.com/proposals/upgrade-potato-module-v3"
+}

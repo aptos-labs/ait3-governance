@@ -1,0 +1,6 @@
+{
+  "title":"Release a new update of the framework stake.move module",
+  "description":"This includes changes in https://github.com/aptos-labs/aptos-core/pull/3604",
+  "source_code_url":"https://github.com/aptos-labs/ait3-governance/proposals/sources/1-update-framework-modules.move",
+  "discussion_url":"https://forum.aptoslabs.com/proposals/upgrade-potato-module-v3"
+}
