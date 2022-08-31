@@ -1,0 +1,6 @@
+{
+  "title":"Update Aptos Framework modules to the latest version",
+  "description":"This includes changes from https://github.com/aptos-labs/aptos-core/pull/3711",
+  "source_code_url":"https://github.com/aptos-labs/ait3-governance/proposals/sources/2-update-aptos-framework-modules.move",
+  "discussion_url":"https://forum.aptoslabs.com/proposals/upgrade-potato-module-v3"
+}
