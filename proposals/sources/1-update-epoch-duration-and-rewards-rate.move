@@ -9,7 +9,7 @@ script {
         // Update epoch duration from 2 hours to 1 hour.
         let updated_epoch_duration_secs = 1 * 60 /* minutes */ * 60 /* seconds */;
         let updated_epoch_duration_microsecs = updated_epoch_duration_secs * 1000000;
-        block::update_epoch_interval_microsecs(updated_epoch_duration_microsecs);
+        block::update_epoch_interval_microsecs(framework_signer, updated_epoch_duration_microsecs);
 
         // Halve current rewards rate to keep effective APY the same (since epoch duration is halved).
         let (reward_rate_numerator, reward_rate_denominator) = staking_config::get_reward_rate(&staking_config::get());
