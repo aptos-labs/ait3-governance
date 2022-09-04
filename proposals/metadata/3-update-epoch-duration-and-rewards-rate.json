@@ -1,0 +1,6 @@
+{
+   "title":"Update epoch duration from 1 hour to 2 hours and update rewards rate so APY stays the same",
+   "description":"Epoch duration is doubled to 2 hours. Rewards rate is also doubled. This way APY would stay the same.",
+   "source_code_url":"https://github.com/aptos-labs/ait3-governance/blob/main/proposals/sources/1-update-epoch-duration-and-rewards-rate.move",
+   "discussion_url":"https://forum.aptoslabs.com/t/ait3-governance-update-epoch-duration-from-1-hour-to-2-hours/27760"
+}
