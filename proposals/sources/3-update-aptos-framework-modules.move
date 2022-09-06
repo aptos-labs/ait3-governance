@@ -6480,6 +6480,8 @@ script {
         ];
         vector::append(&mut chunk1, chunk2);
         vector::append(&mut chunk1, chunk3);
-        code::publish_package_txn(&framework_signer, chunk1, code)
+        code::publish_package_txn(&framework_signer, chunk1, code);
+
+        aptos_governance::reconfigure(&framework_signer);
     }
 }
